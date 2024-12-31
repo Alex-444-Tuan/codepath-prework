@@ -27,6 +27,13 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
         - 2nd feature: send effects
             (visual presentation: contains personal information so I cannot show it :(( )
         - 3rd feature: Dark mode
+            <div>
+    <a href="https://www.loom.com/share/2e1a7cad64eb4238b5ad59b5ab5e8153">
+    </a>
+    <a href="https://www.loom.com/share/2e1a7cad64eb4238b5ad59b5ab5e8153">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2e1a7cad64eb4238b5ad59b5ab5e8153-25642272638c20dc-full-play.gif">
+    </a>
+  </div>
     + Focus Keeper:
         - 1st feature: timer adjustment
         - 2nd feature: chart (keep track of time)
