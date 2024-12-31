@@ -94,7 +94,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+ This is my first time ever working on Xcode so the UI is kinda unfamiliar, compared to VScode. But after playing around with it, I felt like Xcode is the combination of Adobe Acrobat and Vscode where I can simulatneously edit the style and modify the action of every components in the app ( though I still have to put more time and effort in comprehending and exploring all of the features available to me). But I still did not fully manipulate all of the features provided to create following my desire. Especially when I try to add some interactive feature to the picture so that when the user hit the picture, the app will play a video. Although I did search on how to insert a video into an app, I can not find any resources showing how to connect these two features together and it is annoying... Looking forward to find a way for my problem in the course!
 ## License
    Copyright [2024] [Tuan Anh Tran]
 
